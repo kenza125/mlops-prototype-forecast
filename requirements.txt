@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+pandas
+chronos-forecasting==1.5.1
+pytest
+httpx
+mlflow
