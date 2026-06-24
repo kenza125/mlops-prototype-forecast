@@ -1,6 +1,6 @@
 # MLOps Prototype — Time Series Forecasting
 
-> A modular MLOps prototype for AI-based time series forecasting, built as a reference implementation for the **STORE** project at LaRINA Laboratory.  
+> A modular MLOps prototype for AI-based time series forecasting.  
 > Uses **Amazon Chronos-Bolt-Tiny**, **FastAPI**, **MLflow**, **Docker**, and **GitHub Actions**.
 
 ---
